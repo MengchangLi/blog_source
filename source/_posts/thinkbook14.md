@@ -88,8 +88,8 @@ $ sudo apt install timeshift
 
 如果在分区时使用Btrfs系统，可以选用Btrfs方式进行备份，其它系统可以选择Rsync方式，相对来说，利用Btrfs镜像进行备份更节省空间，在选择备份计划时，可以相对设置更频繁的备份
 
-<img src="/home/chanoch/.config/Typora/typora-user-images/image-20230301095158471.png" alt="image-20230301095158471" style="zoom:33%;" />
+<img src="https://raw.githubusercontent.com/chanochLi/photo/master/blog_pic/image-20230301095158471.png" alt="image-20230301095158471" style="zoom:33%;" />
 
 下图中为备份计划，可以选择每月，每周，每日，每小时，每次启动等，并选择保留对应的镜像数量，超过限制的镜像会被删除
 
-<img src="/home/chanoch/.config/Typora/typora-user-images/image-20230301095356182.png" alt="image-20230301095356182" style="zoom:33%;" />
+<img src="https://raw.githubusercontent.com/chanochLi/photo/master/blog_pic/image-20230301095356182.png" alt="image-20230301095356182" style="zoom:33%;" />
